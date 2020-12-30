@@ -1,9 +1,9 @@
 # GPOMigration
 PowerShell module and sample code for migrating group policies between domains or forests
 
-Find the blog posts describing this code here:
-Missed link: [https://blogs.technet.microsoft.com/ashleymcglone/tag/gpo/](https://blogs.technet.microsoft.com/ashleymcglone/tag/gpo/)
-Working link: https://gallery.technet.microsoft.com/Migrate-Group-Policy-2b5067d8
+Find the blog posts describing this code here:  
+Missed link — https://blogs.technet.microsoft.com/ashleymcglone/tag/gpo/  
+Working link — https://gallery.technet.microsoft.com/Migrate-Group-Policy-2b5067d8
 
 # The Problem
 Have you ever wanted to copy all of your production Group Policy Objects (GPOs) into a lab for testing?  Do you have to copy GPOs between domains or forests?  Do you need to migrate them to another environment due to an acquisition, merger, or divestiture? These are common problems for many administrators.
