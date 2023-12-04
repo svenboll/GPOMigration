@@ -1,8 +1,9 @@
 # GPOMigration
 PowerShell module and sample code for migrating group policies between domains or forests
 
-Find the blog posts describing this code here:  
-Working link: https://gallery.technet.microsoft.com/Migrate-Group-Policy-2b5067d8  
+Find the blog posts describing this code here:
+Looks like all previos posts about it are gone :-(
+Missed link: https://gallery.technet.microsoft.com/Migrate-Group-Policy-2b5067d8  
 Missed link: https://blogs.technet.microsoft.com/ashleymcglone/tag/gpo/  
 
 # The Problem
